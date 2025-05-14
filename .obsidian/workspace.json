@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "1f577cf23a8a82b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d4dd664d870cae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af1a370c39c96087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clases/CPS_2025-05-12_/CPS_2025-05-12_.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CPS_2025-05-12_"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8d7c997a27d8442",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc3d560d8e6438b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96beac0d44fc4998",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c50a0aac7a4be9d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b8cff45e222f44b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 629.5
+  },
+  "right": {
+    "id": "25cf2507f8b4f9c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2171a4c49159b213",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a0329a2f3370ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "library/items/All life is Problem Solving.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for All life is Problem Solving"
+            }
+          },
+          {
+            "id": "7e98ce93296e917c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tasks/Tarea A.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tarea A"
+            }
+          },
+          {
+            "id": "0b07e4a3c81f6928",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f413f33ba48e4f6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "clases/CPS_2025-05-05_Definición y taxonomía del problema/CPS_2025-05-05_Definición y taxonomía del problema.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CPS_2025-05-05_Definición y taxonomía del problema"
+            }
+          },
+          {
+            "id": "a03e62473477ba68",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "vscode-editor:Create Code File": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "af1a370c39c96087",
+  "lastOpenFiles": [
+    "clases/CPS_2025-05-05_Definición y taxonomía del problema/CPS_2025-05-05_Definición y taxonomía del problema.md",
+    "clases/CPS_2025-05-12_/CPS_2025-05-12_.md",
+    "resources/ppt/MasterCPSMódulo1 Tema2.pdf",
+    "resources/ppt/MasterCPSMódulo1 Tema1.pdf",
+    "resources/ppt",
+    "resources/Nueva carpeta",
+    "resources/papers/Revoluciones_tecnologicas_y_paradigmas_tecnoeconomicos.pdf",
+    "resources/papers",
+    "resources/referencias/Revoluciones_tecnologicas_y_paradigmas_tecnoeconomicos.pdf",
+    "resources/referencias",
+    "clases/CPS_2025-05-05_Definición y taxonomía del problema/Una propuesta de definición de problema.md",
+    "clases/CPS_2025-05-12_",
+    "clases/CPS_2025-05-05_Definición y taxonomía del problema/Presentación de los alumnos.md",
+    "clases/CPS_2025-04-29_Orquestación Cognitiva - Master class/CPS_2025-04-29_Orquestación Cognitiva - Master Class.md",
+    "resources/online class videos/CPS_2025-05-05_Definición y taxonomía del problema_303368.mp4",
+    "README.md",
+    "apuntes/Asignatura 1. Metodología RPC/Asignatura 1. Metodología RPC.md",
+    "tasks/Tarea C.md",
+    "tasks/Tarea B.md",
+    "tasks/Tarea A.md",
+    "clases/CPS_2025-04-23_Sesión de bienvenida - explicación de las dinámicas del Máster/CPS_2025-04-23_Sesión de bienvenida - explicación de las dinámicas del Máster.md",
+    "library/items/All life is Problem Solving.md",
+    "library/Library.md",
+    "Excalidraw/Drawing 2025-05-02 09.01.26.excalidraw.md",
+    "glossary/items/Sesgo.md",
+    "library/items/All life is Problem Solving 1.md",
+    "Untitled 1.md",
+    "_attachments/Pasted image 20250502002347.png",
+    "_attachments/Pasted image 20250502002259.png",
+    "_attachments/Pasted image 20250502002244.png",
+    "glossary/Glosario.md",
+    "glossary/items/Método Científico.md",
+    "library/items/Untitled.md",
+    "_attachments/Untitled.md",
+    "_attachments/Pasted image 20250501180636.png",
+    "_attachments/Pasted image 20250501181132.png"
+  ]
+}
